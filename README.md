@@ -63,3 +63,23 @@
 - Análisis de productos y categorías
 - Evaluación de proveedores
 - Visualizaciones avanzadas
+
+## 📊 Proyecto 4: Dashboard E-commerce en Tiempo Real
+
+### 📋 Archivos Principales
+- `dashboard_ecommerce.py` — Dashboard interactivo principal con Streamlit
+- `ventas_ecommerce.csv` — Dataset de transacciones y ventas
+- `clientes_ecommerce.csv` — Base de datos de clientes y segmentación
+- `productos_ecommerce.csv` — Catálogo de productos y categorías
+- `categorias_ecommerce.csv` — Márgenes de ganancia y rotación
+- `metodos_pago.csv` — Métodos de pago y tasas de aceptación
+- `Reporte_Analisis_Ecommerce.pdf` — Reporte ejecutivo generado automáticamente
+
+### 🔍 Análisis Incluidos
+- 📊 Dashboard Interactivo — Visualizaciones en tiempo real con Streamlit
+- 🤖 Modelo Predictivo — Clasificación de clientes de alto valor (Decision Tree)
+- 💰 Análisis de Ventas — Por categoría, método pago y evolución temporal
+- 👥 Segmentación de Clientes — Demografía, comportamiento y valor de por vida
+- 📦 Performance de Productos — Rating vs ventas, precio vs rating, análisis por categoría
+- ⏰ Simulación Tiempo Real — Gráfico lineal con actualizaciones en vivo
+- 💡 Recomendaciones Estratégicas — Insights accionables basados en data
