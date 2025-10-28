@@ -1,0 +1,4 @@
+metodo_id,metodo_pago,tasa_aceptacion,costo_por_transaccion
+1,Tarjeta,95,2.5
+2,PayPal,98,3.0
+3,Efectivo,100,0.0

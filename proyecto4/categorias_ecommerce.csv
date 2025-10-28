@@ -1,0 +1,9 @@
+categoria_id,nombre_categoria,margen_ganancia,rotacion_stock
+1,Electrónica,35,Alta
+2,Ropa,60,Media
+3,Hogar,45,Media
+4,Deportes,50,Alta
+5,Libros,30,Baja
+6,Juguetes,55,Alta
+7,Belleza,65,Media
+8,Electrodomésticos,25,Baja

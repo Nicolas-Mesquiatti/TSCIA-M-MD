@@ -1,0 +1,9 @@
+producto_id,categoria,precio,rating,stock,vendidos_mes
+1,Electrónica,899.99,4.5,45,23
+2,Ropa,45.50,4.2,120,67
+3,Hogar,129.99,4.7,80,34
+4,Deportes,78.25,4.0,95,41
+5,Libros,25.99,4.8,200,89
+6,Juguetes,34.75,4.1,150,52
+7,Belleza,56.40,4.3,110,48
+8,Electrodomésticos,459.99,4.6,25,12
