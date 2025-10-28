@@ -1,0 +1,324 @@
+[
+  {
+    "id_facturaDET": 3,
+    "id_facturaENC": 1,
+    "id_producto": 1,
+    "cantidad": 1,
+    "precio_unitario": 450000
+  },
+  {
+    "id_facturaDET": 4,
+    "id_facturaENC": 1,
+    "id_producto": 2,
+    "cantidad": 1,
+    "precio_unitario": 8500
+  },
+  {
+    "id_facturaDET": 5,
+    "id_facturaENC": 1,
+    "id_producto": 3,
+    "cantidad": 1,
+    "precio_unitario": 120000
+  },
+  {
+    "id_facturaDET": 6,
+    "id_facturaENC": 2,
+    "id_producto": 4,
+    "cantidad": 2,
+    "precio_unitario": 18000
+  },
+  {
+    "id_facturaDET": 7,
+    "id_facturaENC": 2,
+    "id_producto": 5,
+    "cantidad": 1,
+    "precio_unitario": 25000
+  },
+  {
+    "id_facturaDET": 8,
+    "id_facturaENC": 3,
+    "id_producto": 6,
+    "cantidad": 1,
+    "precio_unitario": 95000
+  },
+  {
+    "id_facturaDET": 9,
+    "id_facturaENC": 3,
+    "id_producto": 7,
+    "cantidad": 3,
+    "precio_unitario": 180000
+  },
+  {
+    "id_facturaDET": 10,
+    "id_facturaENC": 4,
+    "id_producto": 8,
+    "cantidad": 1,
+    "precio_unitario": 32000
+  },
+  {
+    "id_facturaDET": 11,
+    "id_facturaENC": 4,
+    "id_producto": 9,
+    "cantidad": 2,
+    "precio_unitario": 38000
+  },
+  {
+    "id_facturaDET": 12,
+    "id_facturaENC": 5,
+    "id_producto": 10,
+    "cantidad": 1,
+    "precio_unitario": 22000
+  },
+  {
+    "id_facturaDET": 13,
+    "id_facturaENC": 5,
+    "id_producto": 12,
+    "cantidad": 2,
+    "precio_unitario": 1200
+  },
+  {
+    "id_facturaDET": 14,
+    "id_facturaENC": 6,
+    "id_producto": 13,
+    "cantidad": 1,
+    "precio_unitario": 1200
+  },
+  {
+    "id_facturaDET": 15,
+    "id_facturaENC": 6,
+    "id_producto": 14,
+    "cantidad": 3,
+    "precio_unitario": 45000
+  },
+  {
+    "id_facturaDET": 16,
+    "id_facturaENC": 7,
+    "id_producto": 15,
+    "cantidad": 2,
+    "precio_unitario": 37000
+  },
+  {
+    "id_facturaDET": 17,
+    "id_facturaENC": 8,
+    "id_producto": 16,
+    "cantidad": 1,
+    "precio_unitario": 28000
+  },
+  {
+    "id_facturaDET": 18,
+    "id_facturaENC": 8,
+    "id_producto": 17,
+    "cantidad": 3,
+    "precio_unitario": 6500
+  },
+  {
+    "id_facturaDET": 19,
+    "id_facturaENC": 9,
+    "id_producto": 18,
+    "cantidad": 1,
+    "precio_unitario": 9500
+  },
+  {
+    "id_facturaDET": 20,
+    "id_facturaENC": 9,
+    "id_producto": 19,
+    "cantidad": 2,
+    "precio_unitario": 74000
+  },
+  {
+    "id_facturaDET": 21,
+    "id_facturaENC": 10,
+    "id_producto": 20,
+    "cantidad": 1,
+    "precio_unitario": 55000
+  },
+  {
+    "id_facturaDET": 22,
+    "id_facturaENC": 11,
+    "id_producto": 21,
+    "cantidad": 1,
+    "precio_unitario": 67000
+  },
+  {
+    "id_facturaDET": 23,
+    "id_facturaENC": 11,
+    "id_producto": 22,
+    "cantidad": 4,
+    "precio_unitario": 4200
+  },
+  {
+    "id_facturaDET": 24,
+    "id_facturaENC": 12,
+    "id_producto": 23,
+    "cantidad": 1,
+    "precio_unitario": 89000
+  },
+  {
+    "id_facturaDET": 25,
+    "id_facturaENC": 12,
+    "id_producto": 24,
+    "cantidad": 2,
+    "precio_unitario": 15500
+  },
+  {
+    "id_facturaDET": 26,
+    "id_facturaENC": 13,
+    "id_producto": 25,
+    "cantidad": 1,
+    "precio_unitario": 36000
+  },
+  {
+    "id_facturaDET": 27,
+    "id_facturaENC": 14,
+    "id_producto": 26,
+    "cantidad": 2,
+    "precio_unitario": 47000
+  },
+  {
+    "id_facturaDET": 28,
+    "id_facturaENC": 15,
+    "id_producto": 27,
+    "cantidad": 3,
+    "precio_unitario": 31000
+  },
+  {
+    "id_facturaDET": 29,
+    "id_facturaENC": 16,
+    "id_producto": 28,
+    "cantidad": 1,
+    "precio_unitario": 9700
+  },
+  {
+    "id_facturaDET": 30,
+    "id_facturaENC": 16,
+    "id_producto": 29,
+    "cantidad": 2,
+    "precio_unitario": 18000
+  },
+  {
+    "id_facturaDET": 31,
+    "id_facturaENC": 17,
+    "id_producto": 30,
+    "cantidad": 1,
+    "precio_unitario": 22000
+  },
+  {
+    "id_facturaDET": 32,
+    "id_facturaENC": 18,
+    "id_producto": 31,
+    "cantidad": 1,
+    "precio_unitario": 43000
+  },
+  {
+    "id_facturaDET": 33,
+    "id_facturaENC": 19,
+    "id_producto": 32,
+    "cantidad": 3,
+    "precio_unitario": 8600
+  },
+  {
+    "id_facturaDET": 34,
+    "id_facturaENC": 20,
+    "id_producto": 33,
+    "cantidad": 2,
+    "precio_unitario": 129000
+  },
+  {
+    "id_facturaDET": 35,
+    "id_facturaENC": 21,
+    "id_producto": 34,
+    "cantidad": 1,
+    "precio_unitario": 157000
+  },
+  {
+    "id_facturaDET": 36,
+    "id_facturaENC": 22,
+    "id_producto": 35,
+    "cantidad": 2,
+    "precio_unitario": 14500
+  },
+  {
+    "id_facturaDET": 37,
+    "id_facturaENC": 23,
+    "id_producto": 36,
+    "cantidad": 1,
+    "precio_unitario": 6700
+  },
+  {
+    "id_facturaDET": 38,
+    "id_facturaENC": 23,
+    "id_producto": 37,
+    "cantidad": 4,
+    "precio_unitario": 9800
+  },
+  {
+    "id_facturaDET": 39,
+    "id_facturaENC": 24,
+    "id_producto": 38,
+    "cantidad": 1,
+    "precio_unitario": 45000
+  },
+  {
+    "id_facturaDET": 40,
+    "id_facturaENC": 24,
+    "id_producto": 39,
+    "cantidad": 1,
+    "precio_unitario": 12500
+  },
+  {
+    "id_facturaDET": 41,
+    "id_facturaENC": 25,
+    "id_producto": 40,
+    "cantidad": 3,
+    "precio_unitario": 37000
+  },
+  {
+    "id_facturaDET": 42,
+    "id_facturaENC": 26,
+    "id_producto": 41,
+    "cantidad": 2,
+    "precio_unitario": 68000
+  },
+  {
+    "id_facturaDET": 43,
+    "id_facturaENC": 27,
+    "id_producto": 42,
+    "cantidad": 1,
+    "precio_unitario": 15500
+  },
+  {
+    "id_facturaDET": 44,
+    "id_facturaENC": 28,
+    "id_producto": 43,
+    "cantidad": 1,
+    "precio_unitario": 89000
+  },
+  {
+    "id_facturaDET": 45,
+    "id_facturaENC": 29,
+    "id_producto": 44,
+    "cantidad": 2,
+    "precio_unitario": 43000
+  },
+  {
+    "id_facturaDET": 46,
+    "id_facturaENC": 30,
+    "id_producto": 45,
+    "cantidad": 1,
+    "precio_unitario": 56000
+  },
+  {
+    "id_facturaDET": 47,
+    "id_facturaENC": 30,
+    "id_producto": 46,
+    "cantidad": 2,
+    "precio_unitario": 22000
+  },
+  {
+    "id_facturaDET": 48,
+    "id_facturaENC": 30,
+    "id_producto": 47,
+    "cantidad": 4,
+    "precio_unitario": 8900
+  }
+]

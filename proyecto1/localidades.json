@@ -1,0 +1,62 @@
+[
+  {
+    "id_localidad": 1.0,
+    "nombre_localidad": "Localidad 1",
+    "id_provincia": 1.0
+  },
+  {
+    "id_localidad": 2.0,
+    "nombre_localidad": "Localidad 2",
+    "id_provincia": 2.0
+  },
+  {
+    "id_localidad": 3.0,
+    "nombre_localidad": null,
+    "id_provincia": 3.0
+  },
+  {
+    "id_localidad": 4.0,
+    "nombre_localidad": "Localidad 4",
+    "id_provincia": 4.0
+  },
+  {
+    "id_localidad": 5.0,
+    "nombre_localidad": "Localidad 5",
+    "id_provincia": 5.0
+  },
+  {
+    "id_localidad": null,
+    "nombre_localidad": null,
+    "id_provincia": null
+  },
+  {
+    "id_localidad": 7.0,
+    "nombre_localidad": "Localidad 7",
+    "id_provincia": 7.0
+  },
+  {
+    "id_localidad": 8.0,
+    "nombre_localidad": "Localidad 8",
+    "id_provincia": 8.0
+  },
+  {
+    "id_localidad": 9.0,
+    "nombre_localidad": "Localidad 9",
+    "id_provincia": 9.0
+  },
+  {
+    "id_localidad": 10.0,
+    "nombre_localidad": "Localidad 10",
+    "id_provincia": 10.0
+  },
+  {
+    "id_localidad": 11.0,
+    "nombre_localidad": "Gerli",
+    "id_provincia": 1.0
+  },
+  {
+    "id_localidad": 12,
+    "nombre_localidad": "Lanus",
+    "id_provincia": 11
+  }
+]

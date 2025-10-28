@@ -1,0 +1,47 @@
+id_producto,descripcion,precio,id_proveedor,id_rubro,stock
+1,Notebook Lenovo i5,320000,1,2,15
+2,Mouse inalámbrico Logitech,12000,2,3,50
+3,"Monitor Samsung 24""",95000,1,2,19
+4,Teclado mecánico Redragon,65000,3,3,30
+5,Auriculares JBL Bluetooth,38000,2,4,25
+6,Impresora HP DeskJet,120000,4,5,10
+7,Tablet Samsung Galaxy Tab A,15000,1,2,12
+8,Cámara Logitech C920,52000,2,4,18
+9,Disco SSD Kingston 480GB,42000,3,6,40
+10,Router TP-Link AC1200,58000,4,5,35
+12,IPhone 14,240000,3,4,50
+13,IPhone 15,320000,3,4,50
+14,Parlante Bluetooth Sony,65000,4,4,22
+15,Memoria RAM Corsair 16GB,41000,1,6,25
+16,Mousepad gamer Redragon,22000,2,3,60
+17,Hub USB-C Anker 5 en 1,9000,3,3,45
+18,Webcam Genius Full HD,18000,2,4,35
+19,Teclado inalámbrico Genius,46000,3,3,40
+20,Disco Duro Externo 1TB WD,53000,1,6,28
+21,Notebook HP Ryzen 5,80000,4,2,14
+22,Pen Drive Sandisk 64GB,7500,2,6,80
+23,"Monitor LG 27""",89000,1,2,17
+24,Cable HDMI 2m,12500,3,3,100
+25,Base refrigerante notebook,26000,4,3,30
+26,Joystick Xbox One,52000,2,4,20
+27,Soporte monitor articulado,29500,3,6,25
+28,Adaptador Bluetooth USB,14500,4,3,60
+29,Cable USB-C a Lightning,19000,3,3,90
+30,Mouse ergonómico Genius,25000,2,3,55
+31,"Monitor curvo Samsung 32""",110000,1,2,15
+32,Cargador portátil 20000mAh,18500,4,5,75
+33,Notebook Asus VivoBook,40000,1,2,10
+34,Notebook Dell Inspiron,80000,4,2,8
+35,Teclado gamer HyperX Alloy,37000,3,3,30
+36,Lámpara LED USB,9800,2,7,40
+37,Hub USB 3.0 4 puertos,15500,4,3,70
+38,Mouse gamer Logitech G203,35000,2,3,40
+39,Parlante portátil JBL Clip,32000,2,4,30
+40,Memoria RAM Kingston 8GB,31000,3,6,50
+41,"Monitor portátil 15.6""",87000,1,2,20
+42,Smartwatch Xiaomi Redmi,26000,4,5,25
+43,"Monitor gamer AOC 27""",94000,1,2,18
+44,Teclado inalámbrico Logitech,29000,2,3,45
+45,Impresora Epson EcoTank L3250,185000,4,5,12
+46,Auriculares Sony WH-1000XM4,59000,5,4,15
+47,Soporte notebook ajustable,140000,3,6,40

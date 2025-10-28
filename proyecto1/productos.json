@@ -1,0 +1,370 @@
+[
+  {
+    "id_producto": 1,
+    "descripcion": "Notebook Lenovo i5",
+    "precio": 320000,
+    "id_proveedor": 1,
+    "id_rubro": 2,
+    "stock": 15
+  },
+  {
+    "id_producto": 2,
+    "descripcion": "Mouse inalámbrico Logitech",
+    "precio": 12000,
+    "id_proveedor": 2,
+    "id_rubro": 3,
+    "stock": 50
+  },
+  {
+    "id_producto": 3,
+    "descripcion": "Monitor Samsung 24\"",
+    "precio": 95000,
+    "id_proveedor": 1,
+    "id_rubro": 2,
+    "stock": 19
+  },
+  {
+    "id_producto": 4,
+    "descripcion": "Teclado mecánico Redragon",
+    "precio": 65000,
+    "id_proveedor": 3,
+    "id_rubro": 3,
+    "stock": 30
+  },
+  {
+    "id_producto": 5,
+    "descripcion": "Auriculares JBL Bluetooth",
+    "precio": 38000,
+    "id_proveedor": 2,
+    "id_rubro": 4,
+    "stock": 25
+  },
+  {
+    "id_producto": 6,
+    "descripcion": "Impresora HP DeskJet",
+    "precio": 120000,
+    "id_proveedor": 4,
+    "id_rubro": 5,
+    "stock": 10
+  },
+  {
+    "id_producto": 7,
+    "descripcion": "Tablet Samsung Galaxy Tab A",
+    "precio": 155000,
+    "id_proveedor": 1,
+    "id_rubro": 2,
+    "stock": 12
+  },
+  {
+    "id_producto": 8,
+    "descripcion": "Cámara Logitech C920",
+    "precio": 52000,
+    "id_proveedor": 2,
+    "id_rubro": 4,
+    "stock": 18
+  },
+  {
+    "id_producto": 9,
+    "descripcion": "Disco SSD Kingston 480GB",
+    "precio": 42000,
+    "id_proveedor": 3,
+    "id_rubro": 6,
+    "stock": 40
+  },
+  {
+    "id_producto": 10,
+    "descripcion": "Router TP-Link AC1200",
+    "precio": 58000,
+    "id_proveedor": 4,
+    "id_rubro": 5,
+    "stock": 35
+  },
+  {
+    "id_producto": 12,
+    "descripcion": "IPhone 14",
+    "precio": 240000,
+    "id_proveedor": 3,
+    "id_rubro": 4,
+    "stock": 50
+  },
+  {
+    "id_producto": 13,
+    "descripcion": "IPhone 15",
+    "precio": 320000,
+    "id_proveedor": 3,
+    "id_rubro": 4,
+    "stock": 50
+  },
+  {
+    "id_producto": 14,
+    "descripcion": "Parlante Bluetooth Sony",
+    "precio": 65000,
+    "id_proveedor": 4,
+    "id_rubro": 4,
+    "stock": 22
+  },
+  {
+    "id_producto": 15,
+    "descripcion": "Memoria RAM Corsair 16GB",
+    "precio": 41000,
+    "id_proveedor": 1,
+    "id_rubro": 6,
+    "stock": 25
+  },
+  {
+    "id_producto": 16,
+    "descripcion": "Mousepad gamer Redragon",
+    "precio": 22000,
+    "id_proveedor": 2,
+    "id_rubro": 3,
+    "stock": 60
+  },
+  {
+    "id_producto": 17,
+    "descripcion": "Hub USB-C Anker 5 en 1",
+    "precio": 9000,
+    "id_proveedor": 3,
+    "id_rubro": 3,
+    "stock": 45
+  },
+  {
+    "id_producto": 18,
+    "descripcion": "Webcam Genius Full HD",
+    "precio": 18000,
+    "id_proveedor": 2,
+    "id_rubro": 4,
+    "stock": 35
+  },
+  {
+    "id_producto": 19,
+    "descripcion": "Teclado inalámbrico Genius",
+    "precio": 46000,
+    "id_proveedor": 3,
+    "id_rubro": 3,
+    "stock": 40
+  },
+  {
+    "id_producto": 20,
+    "descripcion": "Disco Duro Externo 1TB WD",
+    "precio": 53000,
+    "id_proveedor": 1,
+    "id_rubro": 6,
+    "stock": 28
+  },
+  {
+    "id_producto": 21,
+    "descripcion": "Notebook HP Ryzen 5",
+    "precio": 280000,
+    "id_proveedor": 4,
+    "id_rubro": 2,
+    "stock": 14
+  },
+  {
+    "id_producto": 22,
+    "descripcion": "Pen Drive Sandisk 64GB",
+    "precio": 7500,
+    "id_proveedor": 2,
+    "id_rubro": 6,
+    "stock": 80
+  },
+  {
+    "id_producto": 23,
+    "descripcion": "Monitor LG 27\"",
+    "precio": 89000,
+    "id_proveedor": 1,
+    "id_rubro": 2,
+    "stock": 17
+  },
+  {
+    "id_producto": 24,
+    "descripcion": "Cable HDMI 2m",
+    "precio": 12500,
+    "id_proveedor": 3,
+    "id_rubro": 3,
+    "stock": 100
+  },
+  {
+    "id_producto": 25,
+    "descripcion": "Base refrigerante notebook",
+    "precio": 26000,
+    "id_proveedor": 4,
+    "id_rubro": 3,
+    "stock": 30
+  },
+  {
+    "id_producto": 26,
+    "descripcion": "Joystick Xbox One",
+    "precio": 52000,
+    "id_proveedor": 2,
+    "id_rubro": 4,
+    "stock": 20
+  },
+  {
+    "id_producto": 27,
+    "descripcion": "Soporte monitor articulado",
+    "precio": 29500,
+    "id_proveedor": 3,
+    "id_rubro": 6,
+    "stock": 25
+  },
+  {
+    "id_producto": 28,
+    "descripcion": "Adaptador Bluetooth USB",
+    "precio": 14500,
+    "id_proveedor": 4,
+    "id_rubro": 3,
+    "stock": 60
+  },
+  {
+    "id_producto": 29,
+    "descripcion": "Cable USB-C a Lightning",
+    "precio": 19000,
+    "id_proveedor": 3,
+    "id_rubro": 3,
+    "stock": 90
+  },
+  {
+    "id_producto": 30,
+    "descripcion": "Mouse ergonómico Genius",
+    "precio": 25000,
+    "id_proveedor": 2,
+    "id_rubro": 3,
+    "stock": 55
+  },
+  {
+    "id_producto": 31,
+    "descripcion": "Monitor curvo Samsung 32\"",
+    "precio": 110000,
+    "id_proveedor": 1,
+    "id_rubro": 2,
+    "stock": 15
+  },
+  {
+    "id_producto": 32,
+    "descripcion": "Cargador portátil 20000mAh",
+    "precio": 18500,
+    "id_proveedor": 4,
+    "id_rubro": 5,
+    "stock": 75
+  },
+  {
+    "id_producto": 33,
+    "descripcion": "Notebook Asus VivoBook",
+    "precio": 240000,
+    "id_proveedor": 1,
+    "id_rubro": 2,
+    "stock": 10
+  },
+  {
+    "id_producto": 34,
+    "descripcion": "Notebook Dell Inspiron",
+    "precio": 280000,
+    "id_proveedor": 4,
+    "id_rubro": 2,
+    "stock": 8
+  },
+  {
+    "id_producto": 35,
+    "descripcion": "Teclado gamer HyperX Alloy",
+    "precio": 37000,
+    "id_proveedor": 3,
+    "id_rubro": 3,
+    "stock": 30
+  },
+  {
+    "id_producto": 36,
+    "descripcion": "Lámpara LED USB",
+    "precio": 9800,
+    "id_proveedor": 2,
+    "id_rubro": 7,
+    "stock": 40
+  },
+  {
+    "id_producto": 37,
+    "descripcion": "Hub USB 3.0 4 puertos",
+    "precio": 15500,
+    "id_proveedor": 4,
+    "id_rubro": 3,
+    "stock": 70
+  },
+  {
+    "id_producto": 38,
+    "descripcion": "Mouse gamer Logitech G203",
+    "precio": 35000,
+    "id_proveedor": 2,
+    "id_rubro": 3,
+    "stock": 40
+  },
+  {
+    "id_producto": 39,
+    "descripcion": "Parlante portátil JBL Clip",
+    "precio": 32000,
+    "id_proveedor": 2,
+    "id_rubro": 4,
+    "stock": 30
+  },
+  {
+    "id_producto": 40,
+    "descripcion": "Memoria RAM Kingston 8GB",
+    "precio": 31000,
+    "id_proveedor": 3,
+    "id_rubro": 6,
+    "stock": 50
+  },
+  {
+    "id_producto": 41,
+    "descripcion": "Monitor portátil 15.6\"",
+    "precio": 87000,
+    "id_proveedor": 1,
+    "id_rubro": 2,
+    "stock": 20
+  },
+  {
+    "id_producto": 42,
+    "descripcion": "Smartwatch Xiaomi Redmi",
+    "precio": 26000,
+    "id_proveedor": 4,
+    "id_rubro": 5,
+    "stock": 25
+  },
+  {
+    "id_producto": 43,
+    "descripcion": "Monitor gamer AOC 27\"",
+    "precio": 94000,
+    "id_proveedor": 1,
+    "id_rubro": 2,
+    "stock": 18
+  },
+  {
+    "id_producto": 44,
+    "descripcion": "Teclado inalámbrico Logitech",
+    "precio": 29000,
+    "id_proveedor": 2,
+    "id_rubro": 3,
+    "stock": 45
+  },
+  {
+    "id_producto": 45,
+    "descripcion": "Impresora Epson EcoTank L3250",
+    "precio": 185000,
+    "id_proveedor": 4,
+    "id_rubro": 5,
+    "stock": 12
+  },
+  {
+    "id_producto": 46,
+    "descripcion": "Auriculares Sony WH-1000XM4",
+    "precio": 59000,
+    "id_proveedor": 2,
+    "id_rubro": 4,
+    "stock": 15
+  },
+  {
+    "id_producto": 47,
+    "descripcion": "Soporte notebook ajustable",
+    "precio": 140000,
+    "id_proveedor": 3,
+    "id_rubro": 6,
+    "stock": 40
+  }
+]

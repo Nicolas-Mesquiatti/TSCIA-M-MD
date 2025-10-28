@@ -1,0 +1,86 @@
+[
+  {
+    "id_cliente": 1.0,
+    "nombre": "Ana Gómez",
+    "id_localidad": 1.0,
+    "domicilio": "calle falsa 2112"
+  },
+  {
+    "id_cliente": 2.0,
+    "nombre": "Luis Martínez",
+    "id_localidad": 2.0,
+    "domicilio": "Av. Siempreviva 456"
+  },
+  {
+    "id_cliente": 3.0,
+    "nombre": "Maria jose",
+    "id_localidad": 3.0,
+    "domicilio": "Mitre 789"
+  },
+  {
+    "id_cliente": 4.0,
+    "nombre": "Carlos Pérez",
+    "id_localidad": 4.0,
+    "domicilio": "San Martín 101"
+  },
+  {
+    "id_cliente": 5.0,
+    "nombre": "Lucía Rodríguez",
+    "id_localidad": 5.0,
+    "domicilio": "Belgrano 202"
+  },
+  {
+    "id_cliente": 6.0,
+    "nombre": "Jorge López",
+    "id_localidad": 6.0,
+    "domicilio": "Rivadavia 303"
+  },
+  {
+    "id_cliente": 7.0,
+    "nombre": "Sofía Díaz",
+    "id_localidad": 7.0,
+    "domicilio": "Corrientes 404"
+  },
+  {
+    "id_cliente": 8.0,
+    "nombre": "Martín Sánchez",
+    "id_localidad": 8.0,
+    "domicilio": "Lavalle 505"
+  },
+  {
+    "id_cliente": 9.0,
+    "nombre": "Valentina Torres",
+    "id_localidad": 9.0,
+    "domicilio": "Urquiza 606"
+  },
+  {
+    "id_cliente": 10.0,
+    "nombre": "Federico Ramírez",
+    "id_localidad": 10.0,
+    "domicilio": "Castelli 707"
+  },
+  {
+    "id_cliente": null,
+    "nombre": null,
+    "id_localidad": null,
+    "domicilio": null
+  },
+  {
+    "id_cliente": 12.0,
+    "nombre": "Ezequiel",
+    "id_localidad": 3.0,
+    "domicilio": "Araoz 213"
+  },
+  {
+    "id_cliente": 13.0,
+    "nombre": "Jose",
+    "id_localidad": 3.0,
+    "domicilio": "Jujuy 72"
+  },
+  {
+    "id_cliente": 14.0,
+    "nombre": "Nico",
+    "id_localidad": 2.0,
+    "domicilio": "Chile 23"
+  }
+]

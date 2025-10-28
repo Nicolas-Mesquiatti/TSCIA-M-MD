@@ -1,0 +1,52 @@
+[
+  {
+    "id_venta": 1,
+    "id_facturaENC": 1,
+    "monto": 578500
+  },
+  {
+    "id_venta": 2,
+    "id_facturaENC": 2,
+    "monto": 43000
+  },
+  {
+    "id_venta": 3,
+    "id_facturaENC": 3,
+    "monto": 275000
+  },
+  {
+    "id_venta": 4,
+    "id_facturaENC": 4,
+    "monto": 70000
+  },
+  {
+    "id_venta": 5,
+    "id_facturaENC": 5,
+    "monto": 23200
+  },
+  {
+    "id_venta": 6,
+    "id_facturaENC": 6,
+    "monto": 1200
+  },
+  {
+    "id_venta": 7,
+    "id_facturaENC": 7,
+    "monto": 0
+  },
+  {
+    "id_venta": 8,
+    "id_facturaENC": 8,
+    "monto": 0
+  },
+  {
+    "id_venta": 9,
+    "id_facturaENC": 9,
+    "monto": 0
+  },
+  {
+    "id_venta": 10,
+    "id_facturaENC": 10,
+    "monto": 75758
+  }
+]

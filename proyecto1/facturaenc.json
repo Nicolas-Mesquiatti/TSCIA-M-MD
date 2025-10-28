@@ -1,0 +1,242 @@
+[
+  {
+    "id_facturaENC": 1,
+    "numero": 1001,
+    "fecha": "2024-04-02",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 1,
+    "id_cliente": 1
+  },
+  {
+    "id_facturaENC": 2,
+    "numero": 1002,
+    "fecha": "2025-08-21",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 2,
+    "id_cliente": 2
+  },
+  {
+    "id_facturaENC": 3,
+    "numero": 1003,
+    "fecha": "2025-01-04",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 3,
+    "id_cliente": 3
+  },
+  {
+    "id_facturaENC": 4,
+    "numero": 1004,
+    "fecha": "2025-08-21",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 4,
+    "id_cliente": 4
+  },
+  {
+    "id_facturaENC": 5,
+    "numero": 1005,
+    "fecha": "2023-04-14",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 5,
+    "id_cliente": 5
+  },
+  {
+    "id_facturaENC": 6,
+    "numero": 1006,
+    "fecha": "2025-08-21",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 6,
+    "id_cliente": 6
+  },
+  {
+    "id_facturaENC": 7,
+    "numero": 1007,
+    "fecha": "2025-08-21",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 7,
+    "id_cliente": 7
+  },
+  {
+    "id_facturaENC": 8,
+    "numero": 1008,
+    "fecha": "2024-08-21",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 8,
+    "id_cliente": 8
+  },
+  {
+    "id_facturaENC": 9,
+    "numero": 1009,
+    "fecha": "2025-08-21",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 9,
+    "id_cliente": 9
+  },
+  {
+    "id_facturaENC": 10,
+    "numero": 1010,
+    "fecha": "2025-08-21",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 10,
+    "id_cliente": 10
+  },
+  {
+    "id_facturaENC": 11,
+    "numero": 2133,
+    "fecha": "2025-02-22",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 1,
+    "id_cliente": 11
+  },
+  {
+    "id_facturaENC": 12,
+    "numero": 2134,
+    "fecha": "2024-01-10",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 2,
+    "id_cliente": 12
+  },
+  {
+    "id_facturaENC": 13,
+    "numero": 2135,
+    "fecha": "2024-02-18",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 3,
+    "id_cliente": 13
+  },
+  {
+    "id_facturaENC": 14,
+    "numero": 2136,
+    "fecha": "2024-03-25",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 4,
+    "id_cliente": 14
+  },
+  {
+    "id_facturaENC": 15,
+    "numero": 2137,
+    "fecha": "2024-05-11",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 5,
+    "id_cliente": 15
+  },
+  {
+    "id_facturaENC": 16,
+    "numero": 2138,
+    "fecha": "2024-06-30",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 6,
+    "id_cliente": 16
+  },
+  {
+    "id_facturaENC": 17,
+    "numero": 2139,
+    "fecha": "2024-07-19",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 7,
+    "id_cliente": 17
+  },
+  {
+    "id_facturaENC": 18,
+    "numero": 2140,
+    "fecha": "2024-09-23",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 8,
+    "id_cliente": 18
+  },
+  {
+    "id_facturaENC": 19,
+    "numero": 2141,
+    "fecha": "2024-10-15",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 9,
+    "id_cliente": 19
+  },
+  {
+    "id_facturaENC": 20,
+    "numero": 2142,
+    "fecha": "2024-11-04",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 10,
+    "id_cliente": 20
+  },
+  {
+    "id_facturaENC": 21,
+    "numero": 2143,
+    "fecha": "2024-12-27",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 1,
+    "id_cliente": 21
+  },
+  {
+    "id_facturaENC": 22,
+    "numero": 2144,
+    "fecha": "2025-03-09",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 2,
+    "id_cliente": 22
+  },
+  {
+    "id_facturaENC": 23,
+    "numero": 2145,
+    "fecha": "2025-04-12",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 3,
+    "id_cliente": 23
+  },
+  {
+    "id_facturaENC": 24,
+    "numero": 2146,
+    "fecha": "2025-05-03",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 4,
+    "id_cliente": 24
+  },
+  {
+    "id_facturaENC": 25,
+    "numero": 2147,
+    "fecha": "2025-06-14",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 5,
+    "id_cliente": 25
+  },
+  {
+    "id_facturaENC": 26,
+    "numero": 2148,
+    "fecha": "2025-07-29",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 6,
+    "id_cliente": 26
+  },
+  {
+    "id_facturaENC": 27,
+    "numero": 2149,
+    "fecha": "2025-09-17",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 7,
+    "id_cliente": 27
+  },
+  {
+    "id_facturaENC": 28,
+    "numero": 2150,
+    "fecha": "2025-10-10",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 8,
+    "id_cliente": 28
+  },
+  {
+    "id_facturaENC": 29,
+    "numero": 2151,
+    "fecha": "2025-11-26",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 9,
+    "id_cliente": 29
+  },
+  {
+    "id_facturaENC": 30,
+    "numero": "2152",
+    "fecha": "2025-12-08",
+    "condicion_IVA": "Responsable Ins",
+    "id_sucursal": 10,
+    "id_cliente": 30
+  }
+]

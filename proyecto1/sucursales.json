@@ -1,0 +1,46 @@
+[
+  {
+    "id_sucursal": 1,
+    "nombre_sucursal": "MiniMercado El Encuentro"
+  },
+  {
+    "id_sucursal": 2,
+    "nombre_sucursal": "Super La Esquina"
+  },
+  {
+    "id_sucursal": 3,
+    "nombre_sucursal": "Mercadito Don Pepe"
+  },
+  {
+    "id_sucursal": 4,
+    "nombre_sucursal": "Almacén La Familia"
+  },
+  {
+    "id_sucursal": 5,
+    "nombre_sucursal": "MiniMarket Buen Día"
+  },
+  {
+    "id_sucursal": 6,
+    "nombre_sucursal": "Supermercado El Sol"
+  },
+  {
+    "id_sucursal": 7,
+    "nombre_sucursal": "Mercado Express 24"
+  },
+  {
+    "id_sucursal": 8,
+    "nombre_sucursal": "La Canasta de Barrio"
+  },
+  {
+    "id_sucursal": 9,
+    "nombre_sucursal": "MiniMercado La Ruta"
+  },
+  {
+    "id_sucursal": 10,
+    "nombre_sucursal": "Super El Trébol"
+  },
+  {
+    "id_sucursal": 11,
+    "nombre_sucursal": "Coto"
+  }
+]

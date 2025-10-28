@@ -1,0 +1,22 @@
+[
+  {
+    "id_proveedores": 1,
+    "descripcion": "Lenovo Argentina"
+  },
+  {
+    "id_proveedores": 2,
+    "descripcion": "Logitech LATAM"
+  },
+  {
+    "id_proveedores": 3,
+    "descripcion": "Redragon & Kingston Distribuidor"
+  },
+  {
+    "id_proveedores": 4,
+    "descripcion": "HP & TP-Link Distribuidor"
+  },
+  {
+    "id_proveedores": 5,
+    "descripcion": "Motorola"
+  }
+]
