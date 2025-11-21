@@ -4,15 +4,15 @@
 
 ---
 
-## 🗂️ Proyecto 1: Sistema de Gestión de Base de Datos
+##  Proyecto 1: Sistema de Gestión de Base de Datos
 
-### 📋 Archivos Principales
+###  Archivos Principales
 - `Proyecto1.py` — Sistema principal de gestión de BD
 - `Proyecto1.md` — Documentación del proyecto
 - `streamlit_app.py` — Aplicación web interactiva
 - `Informe_Sistema_Gestion_BD.pdf` — Reporte técnico completo
 
-### 💾 Archivos de Datos
+###  Archivos de Datos
 
 **Formatos CSV:**
 - `clientes.csv`, `productos.csv`, `localidades.csv`
@@ -24,7 +24,7 @@
 - `provincias.json`, `rubros.json`, `sucursales.json`
 - `facturaenc.json`, `facturadet.json`, `ventas.json`, `proveedores.json`
 
-### 🚀 Características
+###  Características
 - Sistema CRUD completo para 10 tablas
 - Soporte múltiple de formatos (CSV/JSON)
 - Interfaz web con Streamlit
@@ -32,16 +32,16 @@
 
 ---
 
-## 📈 Proyecto 2: Análisis de Recompra en Marketing
+##  Proyecto 2: Análisis de Recompra en Marketing
 
-### 📋 Archivos Principales
+###  Archivos Principales
 - `Compras.py` — Análisis completo de recompra
 - `Ejercicio.py` — Ejercicios adicionales
 - `Reporte_Analisis_Recompra.pdf` — Reporte de 8 páginas
 - `Mini_Proyecto_Clientes_Promociones.xlsx` — Dataset principal
 - `clientes_gimnasio.csv` — Dataset adicional
 
-### 🎯 Enfoque
+###  Enfoque
 - Machine Learning con Árbol de Decisión
 - Análisis de efectividad de promociones
 - Segmentación de clientes
@@ -49,24 +49,24 @@
 
 ---
 
-## 📊 Proyecto 3: Análisis Exploratorio y Dashboards
+##  Proyecto 3: Análisis Exploratorio y Dashboards
 
-### 📋 Archivos Principales
+###  Archivos Principales
 - `Proyecto.ipynb` — Notebook principal de análisis
 - `plantilla_modelado_mineria_datos.ipynb` — Plantilla de minería
 - `reporte_completo_estrategico_*.pdf` — Reportes estratégicos
 - `reporte_final_ventas_*.pdf` — Reportes de ventas
 - `reporte_ventas_completo.xlsx` — Datos consolidados
 
-### 🔍 Análisis Incluidos
+###  Análisis Incluidos
 - Dashboard de ventas y tendencias
 - Análisis de productos y categorías
 - Evaluación de proveedores
 - Visualizaciones avanzadas
 
-## 📊 Proyecto 4: Dashboard E-commerce en Tiempo Real
+##  Proyecto 4: Dashboard E-commerce en Tiempo Real
 
-### 📋 Archivos Principales
+###  Archivos Principales
 - `dashboard_ecommerce.py` — Dashboard interactivo principal con Streamlit
 - `ventas_ecommerce.csv` — Dataset de transacciones y ventas
 - `clientes_ecommerce.csv` — Base de datos de clientes y segmentación
@@ -75,11 +75,11 @@
 - `metodos_pago.csv` — Métodos de pago y tasas de aceptación
 - `Reporte_Analisis_Ecommerce.pdf` — Reporte ejecutivo generado automáticamente
 
-### 🔍 Análisis Incluidos
-- 📊 Dashboard Interactivo — Visualizaciones en tiempo real con Streamlit
-- 🤖 Modelo Predictivo — Clasificación de clientes de alto valor (Decision Tree)
-- 💰 Análisis de Ventas — Por categoría, método pago y evolución temporal
-- 👥 Segmentación de Clientes — Demografía, comportamiento y valor de por vida
-- 📦 Performance de Productos — Rating vs ventas, precio vs rating, análisis por categoría
-- ⏰ Simulación Tiempo Real — Gráfico lineal con actualizaciones en vivo
-- 💡 Recomendaciones Estratégicas — Insights accionables basados en data
+###  Análisis Incluidos
+-  Dashboard Interactivo — Visualizaciones en tiempo real con Streamlit
+-  Modelo Predictivo — Clasificación de clientes de alto valor (Decision Tree)
+-  Análisis de Ventas — Por categoría, método pago y evolución temporal
+-  Segmentación de Clientes — Demografía, comportamiento y valor de por vida
+-  Performance de Productos — Rating vs ventas, precio vs rating, análisis por categoría
+-  Simulación Tiempo Real — Gráfico lineal con actualizaciones en vivo
+-  Recomendaciones Estratégicas — Insights accionables basados en data
